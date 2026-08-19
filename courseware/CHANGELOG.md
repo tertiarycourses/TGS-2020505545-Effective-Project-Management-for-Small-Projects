@@ -1,5 +1,18 @@
 # Changelog
 
+## v19.0 — 19 August 2026
+
+- Expanded the trainer deck from 102 to exactly 200 substantive slides.
+- Added an explicit end-to-end lifecycle covering initiation, planning, execution, monitoring and controlling, and closure.
+- Added 76 reference-sourced deep-dive slides while preserving the controlling seven-topic WSQ syllabus and LO1–LO7 / A1–A7 / K1–K5 alignment.
+- Expanded the connected HarbourHub Fresh evidence journey from seven to twelve activities.
+- Added six purpose-built lifecycle workbooks for project screening, requirements workshops, delivery and quality planning, capacity and procurement, integrated status/change control, and acceptance/handover/benefits tracking.
+- Repaired source-template formula defects in the learner copies of the Gantt and budget workbooks; the complete activity workbook set recalculates with zero formula errors.
+- Replaced the distorted cover treatment with a new wide Singapore SME project-team hero and aspect-preserving crop-to-fill composition.
+- Expanded the Learner Guide to 53 pages and regenerated the two-day Lesson Plan with 480 training minutes per day.
+
+Affected artifacts: trainer slides, Learner Guide, Lesson Plan, twelve activity packs, printable worksheets, README, source coverage and QA report.
+
 ## v18.0 — 19 August 2026
 
 - Retained the seven-topic v17 syllabus and ICT-PMT-3026-1.1 TSC alignment.
@@ -15,4 +28,3 @@ Affected artifacts: trainer slides, Learner Guide, Lesson Plan, activities, READ
 ## v17.0 — 19 August 2026
 
 - Legacy master trainer slide release used as the controlling syllabus for v18.0.
-

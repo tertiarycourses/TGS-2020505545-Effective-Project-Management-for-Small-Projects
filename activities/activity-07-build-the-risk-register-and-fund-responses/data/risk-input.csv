@@ -1,0 +1,6 @@
+Risk,Probability,Impact SGD,Time impact days,Notes
+POS interface late,0.35,30000,15,Vendor dependency
+Inventory counts inaccurate,0.45,18000,8,Outlet process and data
+Trainer unavailable,0.3,12000,7,Two-week availability window
+Payment option underperforms,0.25,22000,5,Adoption uncertainty
+Customer adoption exceeds capacity,0.2,16000,10,Opportunity and workload risk

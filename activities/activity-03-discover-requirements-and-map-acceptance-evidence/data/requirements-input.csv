@@ -1,0 +1,5 @@
+Source,Need,Current wording,Constraint
+Customer,Predictable collection,Orders should be ready quickly,Collection promise
+Outlet Supervisor,Accurate picking,Picking should be accurate,Peak-hour staffing
+Finance,Controlled payment,Payments must reconcile,Daily settlement
+POS Vendor,Stable interface,Interface changes should be limited,API release window

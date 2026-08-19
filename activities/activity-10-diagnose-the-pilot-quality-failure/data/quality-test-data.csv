@@ -1,0 +1,11 @@
+Date,Outlet,Shift,Defect type,Count
+2026-11-03,Marina,AM,Inventory update delay,9
+2026-11-03,Marina,PM,Picking sequence error,4
+2026-11-04,Tiong Bahru,AM,Inventory update delay,7
+2026-11-04,Tiong Bahru,PM,Notification delay,3
+2026-11-05,Serangoon,AM,Picking sequence error,6
+2026-11-05,Serangoon,PM,Stock location mismatch,5
+2026-11-06,Marina,AM,Payment exception,2
+2026-11-06,Marina,PM,Inventory update delay,8
+2026-11-07,Tiong Bahru,AM,Stock location mismatch,4
+2026-11-07,Serangoon,PM,Notification delay,2

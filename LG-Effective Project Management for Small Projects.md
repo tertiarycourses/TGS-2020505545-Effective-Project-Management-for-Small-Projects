@@ -1,7 +1,7 @@
 # Effective Project Management for Small Projects — Learner Guide
 
 **Course:** TGS-2020505545  
-**Version:** v18.0 · 19 August 2026  
+**Version:** v19.0 · 19 August 2026  
 **Provider:** Tertiary Infotech Academy Pte Ltd · UEN: 201200696W  
 
 ## Contents
@@ -39,9 +39,26 @@ A 42-person Singapore specialty grocer will introduce online ordering and two-ho
 
 **Success target:** Launch at all three outlets by 30 January 2027; process at least 120 pilot orders per week; keep pick accuracy at or above 98%; achieve customer satisfaction of at least 4.2/5; and remain within the approved S$180,000 budget.
 
+## Complete Project Lifecycle
+
+- **Initiation** — Select, justify, authorise and align the project
+- **Planning** — Integrate requirements, scope, schedule, cost, quality, resources and risk
+- **Execution** — Coordinate work, people, suppliers, engagement and knowledge
+- **Monitoring and Controlling** — Measure, forecast, resolve, change and correct
+- **Closure** — Accept, hand over, close obligations, learn and transfer benefits
+
+Initiation, planning, execution, monitoring and controlling, and closure are presented as a connected system. Stakeholder engagement, risk, quality, governance and integration continue across the phases rather than occurring once.
+
 ## Tool-Based Evidence
 
-Each activity folder contains the exact editable Office templates taken from the v17 course's Project Management Templates source, plus any case dataset. Keep the completed templates as the evidence trail for the project.
+Each activity folder contains editable Office templates from the supplied v17 tool set plus purpose-built v19 lifecycle workbooks and case data. Keep the completed templates as the evidence trail for the project.
+
+## Supplied Reference Base
+
+- `WSQ - Master Trainer Slides - Effective Project Management for Small Projects - v17.pptx`
+- `PMP-35-PDU-Training-Slides-v16.pptx`
+- `WSQ - Master Trainer Slides - Agile Project Management for Business - v9.0.pptx`
+- `Project Management templates guides.pdf`
 
 ## Topic 01 — Initiation of a Project
 
@@ -73,53 +90,191 @@ A charter is strongest when it exposes what the project will not do and what the
 
 For hybrid work, keep the charter and milestone gates while allowing short build-and-feedback cycles inside the delivery phase.
 
+### Reference-Sourced Deep Dives
+
+#### Project Work versus Operations
+
+| Dimension | Project | Operations |
+|---|---|---|
+| Purpose | Create a unique result | Sustain recurring value |
+| Duration | Temporary | Ongoing |
+| Change | Introduces change | Stabilises and improves work |
+| Closure | Formal endpoint | Continues until redesigned |
+
+**Decision insight:** The same people may do both; the management system changes with the nature of the work.
+
+#### The Small-Project Qualification Test
+
+- **Time** — Normally less than six months.
+- **Budget** — Limited enough for proportionate governance.
+- **Team** — Small core team with clear interfaces.
+- **Dependencies** — Few and manageable.
+- **Impact** — No significant strategic or enterprise-wide effect.
+- **Uncertainty** — Can be bounded through short learning cycles.
+
+#### From Output to Benefits
+
+1. **Output** — click-and-collect capability
+2. **Outcome** — orders collected predictably
+3. **Benefit** — revenue, satisfaction and efficiency
+4. **Measure** — owner, baseline, target and date
+
+**Decision insight:** Deliverables are produced by the project; benefits are usually realised with operations.
+
+#### Project Selection Methods
+
+| Method | Best for | Watch for |
+|---|---|---|
+| Cost-benefit | Financial viability | Unsupported benefit assumptions |
+| Weighted scoring | Multiple criteria | Biased weights |
+| Payback | Liquidity and speed | Ignores later value |
+| Mandatory driver | Compliance or safety | Treating obligation as optional |
+
+**Decision insight:** Use more than one lens when a small financial difference hides a major operational consequence.
+
+#### Sponsor and Project Manager—Different Accountability
+
+- **Sponsor** — Owns investment, priority and escalation.
+- **Project manager** — Integrates delivery and advises decisions.
+- **Business owner** — Owns adoption and benefits after handover.
+- **Functional manager** — Provides capability and resolves resource conflicts.
+
+#### Business Documents at Initiation
+
+| Artefact | Decision supported | Owner |
+|---|---|---|
+| Business case | Invest, hold or reject | Sponsor / business owner |
+| Benefits plan | How value will be measured | Benefits owner |
+| Project charter | Authorise and delegate | Sponsor with PM |
+| Assumptions log | What must be validated | Project manager |
+
+**Decision insight:** Keep documents brief, but never combine ownership so completely that accountability disappears.
+
+#### A Charter That Can Govern
+
+- **Purpose** — The problem and desired outcome.
+- **Success** — Measures, targets and dates.
+- **Boundaries** — Deliverables and exclusions.
+- **Authority** — Sponsor, PM and tolerances.
+- **Frame** — Milestones, budget and constraints.
+- **Exposure** — Assumptions, dependencies and high risks.
+
+#### Assumption, Constraint, Dependency or Risk?
+
+| Type | Meaning | Example |
+|---|---|---|
+| Assumption | Believed true for planning | Outlet Wi-Fi capacity is sufficient |
+| Constraint | Fixed limitation | S$180,000 ceiling |
+| Dependency | Reliance on other work | POS API access before integration |
+| Risk | Uncertain event and impact | API access may be late |
+
+**Decision insight:** Classify correctly because each item needs a different response.
+
+#### Lightweight Governance with Tolerances
+
+1. **Set** — scope, time, cost and risk limits
+2. **Measure** — compare current forecast
+3. **Act** — PM decides within authority
+4. **Escalate** — sponsor decides beyond tolerance
+
+**Decision insight:** Authority without tolerances creates hesitation; tolerances without reporting create surprise.
+
+#### Kickoff as an Alignment Decision
+
+1. **Why** — value and success
+2. **What** — scope and exclusions
+3. **Who** — roles and decisions
+4. **How** — method, rhythm and evidence
+5. **Next** — 48-hour actions and owners
+
+**Decision insight:** A good kickoff reveals mismatched assumptions early enough to repair them cheaply.
+
 ### Decision Check
 
-Before moving on, confirm that your team can explain how a cost–benefit analysis, one-page business case and signed-ready project charter with measurable success criteria, scope boundaries, milestone dates, budget cap, team and kickoff agenda. supports develop project scope and team to initiate a five-month small project (a1, k1).
+Before moving on, confirm that your team can explain the method, evidence, trade-off and next decision represented by the topic activities.
 
-### Activity 1 — Authorise the HarbourHub Click & Collect Pilot
+### Activity 1 — Screen and Select the HarbourHub Pilot
 
-**Duration:** 75 minutes  
-**Objective:** Develop project scope and team to initiate a five-month small project (A1, K1).  
-**Tools:** Project Charter, Cost–Benefit Analysis and Business Case templates  
+**Phase:** Initiation  
+**Duration:** 35 minutes  
+**Objective:** Confirm that the proposed work is a viable small project and recommend the best option (A1, K1).  
+**Tools:** Small Project Screening, Multi-Criteria Selection and Cost-Benefit Analysis  
 
 #### Situation
 
-HarbourHub Fresh has approved discovery work for a click-and-collect pilot at three outlets, but the sponsor has not yet authorised delivery. Operations wants speed, Finance wants a hard S$180,000 ceiling, store managers fear disruption, and customers want reliable collection times. Your team must decide whether this is a viable small project and define the authority to proceed.
+HarbourHub Fresh has three competing improvement ideas: click-and-collect, a loyalty app, and a warehouse automation study. Only one can be funded this quarter. The sponsor needs a transparent selection decision and evidence that the selected work fits the small-project profile.
 
 #### Output
 
-A cost–benefit analysis, one-page business case and signed-ready project charter with measurable success criteria, scope boundaries, milestone dates, budget cap, team and kickoff agenda.
+A completed small-project screen, weighted option scorecard, cost-benefit check and sponsor-ready selection recommendation.
 
 #### Tool Files
 
-- `activities/activity-01-authorise-the-harbourhub-click-collect-pilot/tools/02 Cost Benefit Analysis.xlsx`
-- `activities/activity-01-authorise-the-harbourhub-click-collect-pilot/tools/05 Business Case on a Page.docx`
-- `activities/activity-01-authorise-the-harbourhub-click-collect-pilot/tools/08 Project Charter Template.xlsx`
+- `activities/activity-01-screen-and-select-the-harbourhub-pilot/tools/02 Cost Benefit Analysis.xlsx`
+- `activities/activity-01-screen-and-select-the-harbourhub-pilot/tools/01 Small Project Screening and Selection.xlsx`
 
 #### Detailed Procedure
 
-1. Read the HarbourHub case and test it against the small-project criteria: temporary, unique, under six months, limited budget, limited interdependencies and no significant strategic impact.
-2. Open the Design Thinking tool and capture the primary user: an outlet supervisor balancing walk-in customers, online orders and collection queues.
-3. Write one evidence-based problem statement in the form: user + need + consequence. Do not embed a solution in the need.
-4. Open 02 Cost Benefit Analysis.xlsx. Enter the S$180,000 project cap, anticipated first-year benefits, transition costs and assumptions. Separate cash benefits from non-financial benefits.
-5. Calculate net benefit, payback period and the sensitivity of the case to 20% lower order volume. Record which assumption is most decision-sensitive.
-6. Complete 05 Business Case on a Page.docx: problem, options, recommended option, value, major risks and decision required.
-7. Open 08 Project Charter Template.xlsx and define purpose, SMART success measures, in-scope deliverables and explicit exclusions.
-8. Record the five-month milestone frame, S$180,000 cap, major assumptions, constraints and the top three high-level risks.
-9. Name one sponsor, one project manager and the seven-person core team. State the project manager's decision authority and escalation threshold.
-10. Prepare a 15-minute kickoff agenda covering why, what, who, how, first decisions and immediate actions.
-11. Run a sponsor gate review with another team. They may approve, approve with conditions or reject. Record the decision and conditions.
+1. Read the three option briefs and separate desired outcomes from proposed solutions.
+2. Apply the small-project screen: temporary, unique, under six months, limited budget/team and limited interdependencies.
+3. Agree five weighted decision criteria covering value, feasibility, urgency, risk and strategic fit.
+4. Score each option using evidence; record the rationale beside every score.
+5. Open the cost-benefit template and test the preferred option using the S$180,000 ceiling and a 20% downside case.
+6. Record assumptions, exclusions and one non-financial factor that the arithmetic does not capture.
+7. Recommend approve for chartering, hold for more evidence, or reject; state the sponsor decision required.
 
 #### Acceptance Criteria
 
-> The charter proves the work qualifies as a small project, names one accountable sponsor, contains quantified success measures and exclusions, stays within five months and S$180,000, and carries an explicit authorisation decision.
+> The selected option satisfies every small-project criterion, the weighted score reconciles, the financial downside is visible and the recommendation states a clear gate decision.
 
 #### Debrief
 
-- The business case answers whether the project should exist; the charter answers whether the team is authorised to act.
-- A scope boundary is incomplete until exclusions are visible—silence is where scope creep starts.
-- Success criteria must be measurable before the plan is built, or control later becomes opinion.
+- Selection prevents the team from efficiently delivering the wrong project.
+- Weights expose priorities; narrative rationale prevents false precision.
+- A selected idea is still not authorised work until the charter gate is passed.
+
+---
+
+### Activity 2 — Authorise the Pilot and Run the Kickoff Gate
+
+**Phase:** Initiation  
+**Duration:** 45 minutes  
+**Objective:** Define scope, success, authority and team arrangements for an executable small-project start (A1, K1).  
+**Tools:** Business Case on a Page and Project Charter  
+
+#### Situation
+
+The click-and-collect pilot has been selected, but Operations, Finance and the two vendors hold different assumptions about success, exclusions and decision authority. The sponsor will authorise delivery only after a concise gate review.
+
+#### Output
+
+A one-page business case, signed-ready charter, assumptions and constraints log, milestone frame, decision tolerances and kickoff action list.
+
+#### Tool Files
+
+- `activities/activity-02-authorise-the-pilot-and-run-the-kickoff-gate/tools/05 Business Case on a Page.docx`
+- `activities/activity-02-authorise-the-pilot-and-run-the-kickoff-gate/tools/08 Project Charter Template.xlsx`
+
+#### Detailed Procedure
+
+1. Transfer the selection rationale and downside assumptions from Activity 1 into the business case.
+2. Define measurable outcomes, benefits owner and the date on which benefits will be reviewed.
+3. Write in-scope deliverables and explicit exclusions; test each boundary with the sponsor scenario.
+4. Set five-month milestone limits, the S$180,000 ceiling and quality/schedule tolerances.
+5. Name the sponsor, project manager, core team and vendor interfaces; state the project manager's authority.
+6. Record assumptions, constraints, dependencies and the top three high-level risks.
+7. Run the sponsor gate: approve, approve with conditions, hold or reject; capture rationale and conditions.
+8. Conduct a 15-minute kickoff covering why, what, who, how, decisions and the next 48-hour actions.
+
+#### Acceptance Criteria
+
+> The charter names one accountable sponsor, measurable success, explicit exclusions, decision tolerances and an unambiguous authorisation decision within the small-project constraints.
+
+#### Debrief
+
+- The business case justifies investment; the charter grants authority.
+- Decision tolerances make lightweight governance possible.
+- Kickoff converts signed paper into shared commitments and immediate action.
 
 ---
 
@@ -153,57 +308,261 @@ The critical path is the longest-duration path through the current network. It i
 
 A baseline is the approved reference for control. A forecast is the latest expected outcome. Keep both visible; overwriting the baseline destroys the ability to explain variance.
 
+### Reference-Sourced Deep Dives
+
+#### The Integrated Project Plan
+
+- **Scope** — What is authorised and accepted.
+- **Schedule** — Sequence, duration and milestones.
+- **Cost** — Time-phased funding and reserves.
+- **Quality** — Measures, assurance and control.
+- **Resources** — Skills, capacity and procurement.
+- **Risk & stakeholders** — Responses, engagement and governance.
+
+#### Requirements Elicitation
+
+1. **Identify** — sources and decision roles
+2. **Gather** — interview, observe, workshop
+3. **Analyse** — conflicts, constraints and value
+4. **Specify** — testable requirement
+5. **Validate** — source confirms meaning
+
+**Decision insight:** Elicitation is discovery and negotiation—not taking an order from one stakeholder.
+
+#### Weak versus Testable Requirements
+
+| Weak wording | Testable wording | Evidence |
+|---|---|---|
+| Fast collection | 90% ready within 10 minutes | Timestamp sample |
+| Accurate picking | At least 98% line accuracy | Check sheet |
+| Easy to use | New staff completes task after 30-minute training | Observed test |
+| Reliable | 99.5% availability in pilot hours | System log |
+
+**Decision insight:** A measure without a method or status date is still ambiguous.
+
+#### Prioritisation Choices
+
+| Method | Decision logic | Use when |
+|---|---|---|
+| MoSCoW | Must / Should / Could / Won't | Time-boxed scope |
+| Weighted scoring | Value across criteria | Competing options |
+| Kano | Basic, performance, delight | Customer experience |
+| Trade-off sliders | Relative constraint priority | Governance alignment |
+
+**Decision insight:** Priorities must remain traceable to outcomes, not just stakeholder preference.
+
+#### Traceability from Need to Evidence
+
+1. **Outcome** — what success changes
+2. **Requirement** — what must be true
+3. **Deliverable** — what is produced
+4. **Work package** — what the team performs
+5. **Acceptance** — how completion is proven
+
+**Decision insight:** Trace both directions: every need is delivered, and every deliverable has a reason.
+
+#### Scope Statement Essentials
+
+- **Product scope** — Characteristics of the result.
+- **Project scope** — Work required to create it.
+- **Exclusions** — What is deliberately not included.
+- **Acceptance** — Who approves against which criteria.
+- **Constraints** — Limits the plan must respect.
+- **Assumptions** — Planning beliefs to validate.
+
+#### WBS Decomposition
+
+1. **Start** — authorised deliverables
+2. **Break down** — smaller deliverable components
+3. **Test 100%** — all work, no overlap
+4. **Stop** — estimable, assignable, sequenced, accepted
+5. **Define** — dictionary entry
+
+**Decision insight:** Do not decompose by department when the deliverable crosses departments.
+
+#### WBS Dictionary—Why It Matters
+
+| Field | Decision enabled | Failure prevented |
+|---|---|---|
+| Description | Shared meaning | Different estimates for different work |
+| Owner | Accountability | Unclaimed delivery |
+| Acceptance | Definition of complete | Almost done forever |
+| Dependencies | Sequence | Late discovery |
+| Estimate basis | Confidence and revision | Unexplained padding |
+
+**Decision insight:** The diagram shows structure; the dictionary makes the structure manageable.
+
+#### Dependency Relationships
+
+| Type | Logic | Example |
+|---|---|---|
+| Finish-to-start | A finishes before B starts | Configure before integration test |
+| Start-to-start | A starts before B starts | Draft training after testing begins |
+| Finish-to-finish | A finishes before B finishes | Documentation completes with testing |
+| Start-to-finish | Rare transition logic | Old support ends after new starts |
+
+**Decision insight:** Leads and lags change timing; they do not remove the underlying dependency.
+
+#### Critical Path Calculation
+
+1. **Forward pass** — earliest start and finish
+2. **Project finish** — largest earliest finish
+3. **Backward pass** — latest finish and start
+4. **Float** — late start minus early start
+5. **Critical path** — least-float path
+
+**Decision insight:** The critical path is the longest-duration route through current logic, not the most important-looking task.
+
+#### Estimating Methods
+
+| Method | Strength | Limitation |
+|---|---|---|
+| Analogous | Fast early estimate | Lower detail |
+| Parametric | Repeatable unit logic | Needs valid relationship |
+| Bottom-up | Detailed and accountable | Time-consuming |
+| Three-point | Makes uncertainty visible | Still depends on judgement |
+
+**Decision insight:** Record the basis so the estimate can be challenged and updated without starting over.
+
+#### Cost Baseline and Reserves
+
+- **Work-package estimates** — Rolled up from authorised scope.
+- **Contingency reserve** — Funded responses for identified risk.
+- **Cost baseline** — Time-phased performance reference.
+- **Management reserve** — Held outside baseline for unknown-unknowns.
+- **Project budget** — Cost baseline plus management reserve.
+
 ### Decision Check
 
-Before moving on, confirm that your team can explain how a requirements traceability matrix, wbs and dictionary, network diagram with critical path and float, gantt schedule with milestones, and time-phased s$180,000 cost baseline with contingency reserve. supports implement a realistic project plan from the authorised objectives and scope (a2, k2).
+Before moving on, confirm that your team can explain the method, evidence, trade-off and next decision represented by the topic activities.
 
-### Activity 2 — Build the Integrated Scope, Schedule and Cost Baseline
+### Activity 3 — Discover Requirements and Map Acceptance Evidence
 
-**Duration:** 120 minutes  
-**Objective:** Implement a realistic project plan from the authorised objectives and scope (A2, K2).  
-**Tools:** RTM, WBS, network, Gantt and budget templates  
+**Phase:** Planning  
+**Duration:** 35 minutes  
+**Objective:** Elicit, prioritise and trace requirements from stakeholder need to acceptance (A2, K2).  
+**Tools:** Requirements Workshop, Stakeholder Register and Traceability Matrix  
 
 #### Situation
 
-The sponsor approved the charter with one condition: the three outlets must launch before Lunar New Year trading. You have high-level deliverables but no traceable requirements, work breakdown, dependency logic or time-phased budget. A vendor has proposed a date based only on optimism.
+Outlet supervisors want speed, Finance wants payment control, customers want predictable collection, and the POS vendor wants a stable interface. The charter is approved, but the stated needs are not testable.
 
 #### Output
 
-A requirements traceability matrix, WBS and dictionary, network diagram with critical path and float, Gantt schedule with milestones, and time-phased S$180,000 cost baseline with contingency reserve.
+A stakeholder register, workshop decision log and requirements traceability matrix with priorities, owners, deliverables and measurable acceptance evidence.
 
 #### Tool Files
 
-- `activities/activity-02-build-the-integrated-scope-schedule-and-cost-baseline/tools/24 WBS Dictionary.xlsx`
-- `activities/activity-02-build-the-integrated-scope-schedule-and-cost-baseline/tools/24 Work Breakdown Structure.pptx`
-- `activities/activity-02-build-the-integrated-scope-schedule-and-cost-baseline/tools/25 Requirements Traceability Matrix.xlsx`
-- `activities/activity-02-build-the-integrated-scope-schedule-and-cost-baseline/tools/28 Schedule Network Diagram.xlsx`
-- `activities/activity-02-build-the-integrated-scope-schedule-and-cost-baseline/tools/29 - Gantt Chart - Schedule - Daily Weekly Monthly and Phases.xlsx`
-- `activities/activity-02-build-the-integrated-scope-schedule-and-cost-baseline/tools/32 Project Budget - Planned vs Actual - Weekly and Monthly.xlsx`
+- `activities/activity-03-discover-requirements-and-map-acceptance-evidence/tools/25 Requirements Traceability Matrix.xlsx`
+- `activities/activity-03-discover-requirements-and-map-acceptance-evidence/tools/03 Requirements Workshop and Stakeholder Register.xlsx`
 
 #### Detailed Procedure
 
-1. Review Activity 1's charter. Copy every success measure, constraint and in-scope deliverable into the planning assumptions log.
-2. Open 25 Requirements Traceability Matrix.xlsx and write at least eight testable requirements. Give each an ID, source, priority, deliverable, acceptance evidence and owner.
-3. Apply MoSCoW. Challenge every Must: if removing it does not prevent the pilot from achieving its success criteria, it is not a Must.
-4. Open 24 Work Breakdown Structure.pptx. Decompose by deliverable to work packages that can be estimated, assigned and accepted. Apply the 100% rule.
-5. Complete 24 WBS Dictionary.xlsx for at least eight work packages: description, owner, acceptance criteria, assumptions, dependencies, estimate and milestone.
-6. Enter the supplied activity list in 28 Schedule Network Diagram.xlsx. Add predecessor logic and identify all finish-to-start, start-to-start and lag relationships.
-7. Perform the forward pass and backward pass. Mark the critical path and calculate total float for every non-critical activity.
-8. Open the Gantt template and enter the work packages, owners, durations, dependencies and three decision milestones. Keep the project within five months.
-9. Estimate cost using at least two methods—bottom-up for work packages and analogous or parametric for a cross-check. Record the basis of estimate.
-10. Open the budget template. Time-phase labour, vendor, equipment, training and contingency. Keep the cost baseline plus contingency within S$180,000.
-11. Run an integration check: every requirement traces to a WBS deliverable; every work package appears in the schedule and budget; every milestone has acceptance evidence.
-12. Ask another team to find one orphan requirement, missing dependency or unfunded work package. Repair the baseline and record the change.
+1. Identify requirement sources and record their influence, impact and decision role.
+2. Use interviews, observation and a facilitated workshop to surface needs, constraints and conflicts.
+3. Rewrite vague words such as fast, simple and reliable into measurable conditions.
+4. Give every requirement an ID, source, rationale, owner and related charter outcome.
+5. Apply MoSCoW and challenge each Must against the pilot success criteria.
+6. Define a deliverable and acceptance method for every Must and Should.
+7. Record unresolved questions, decision owners and due dates in the workshop log.
+8. Run a traceability audit and repair any orphan outcome, requirement or acceptance test.
 
 #### Acceptance Criteria
 
-> Every requirement traces to acceptance evidence and a WBS deliverable; the network produces a defensible critical path; the Gantt fits the five-month limit; and all scheduled work is funded within S$180,000.
+> Every prioritised requirement has a source, rationale, owner, deliverable and testable acceptance method; unresolved conflicts have named decision owners and dates.
 
 #### Debrief
 
-- A Gantt chart is an output of dependency logic, not a substitute for it.
-- The integrated baseline is only credible when scope, schedule and cost reconcile to the same work packages.
-- Float belongs to the project, not automatically to the activity owner who happens to see it.
+- A requirement is not complete until acceptance can be observed or measured.
+- Prioritisation is a trade-off decision, not a label applied by the loudest stakeholder.
+- Traceability protects value when scope changes later.
+
+---
+
+### Activity 4 — Build the Scope Baseline with WBS and Dictionary
+
+**Phase:** Planning  
+**Duration:** 45 minutes  
+**Objective:** Turn approved requirements into a complete, manageable scope baseline (A2, K2).  
+**Tools:** Work Breakdown Structure, WBS Dictionary and Requirements Traceability Matrix  
+
+#### Situation
+
+The team has 14 prioritised requirements, but the vendor proposal groups work by department and omits outlet readiness, training and handover. Estimates cannot be trusted until the total scope is visible.
+
+#### Output
+
+A scope statement, WBS, WBS dictionary and repaired traceability matrix with no missing or duplicated work.
+
+#### Tool Files
+
+- `activities/activity-04-build-the-scope-baseline-with-wbs-and-dictionary/tools/24 Work Breakdown Structure.pptx`
+- `activities/activity-04-build-the-scope-baseline-with-wbs-and-dictionary/tools/24 WBS Dictionary.xlsx`
+- `activities/activity-04-build-the-scope-baseline-with-wbs-and-dictionary/tools/25 Requirements Traceability Matrix.xlsx`
+
+#### Detailed Procedure
+
+1. Write the scope statement: deliverables, exclusions, assumptions, constraints and acceptance conditions.
+2. Decompose by deliverable rather than department; include project management and transition work.
+3. Apply the 100% rule and test for overlap between sibling elements.
+4. Stop decomposition where a work package can be estimated, assigned, sequenced and accepted.
+5. Complete dictionary entries for description, owner, acceptance, dependencies, assumptions and estimate basis.
+6. Map each requirement to at least one work package and each work package to a requirement or project-management need.
+7. Ask another team to find omitted, duplicated or ambiguous scope and repair the baseline.
+
+#### Acceptance Criteria
+
+> The WBS covers 100% of authorised work without overlap, each work package is manageable and every requirement traces to acceptance-ready scope.
+
+#### Debrief
+
+- The WBS describes all project work; the schedule describes when that work occurs.
+- Transition and project-management work are real scope even when customers never see them.
+- A strong dictionary prevents different teams from estimating different meanings.
+
+---
+
+### Activity 5 — Develop the Integrated Schedule and Cost Baseline
+
+**Phase:** Planning  
+**Duration:** 55 minutes  
+**Objective:** Sequence, estimate and fund the authorised scope as one realistic plan (A2, K2).  
+**Tools:** Network Diagram, Gantt Schedule and Budget versus Actual  
+
+#### Situation
+
+The launch must precede Lunar New Year trading. The vendor has proposed a date without dependency logic, resource calendars or reserves. Finance requires a time-phased baseline within S$180,000.
+
+#### Output
+
+A network with forward/backward passes, critical path, Gantt milestones, basis of estimates and a time-phased cost baseline plus contingency within the authorised ceiling.
+
+#### Tool Files
+
+- `activities/activity-05-develop-the-integrated-schedule-and-cost-baseline/tools/28 Schedule Network Diagram.xlsx`
+- `activities/activity-05-develop-the-integrated-schedule-and-cost-baseline/tools/29 - Gantt Chart - Schedule - Daily Weekly Monthly and Phases.xlsx`
+- `activities/activity-05-develop-the-integrated-schedule-and-cost-baseline/tools/32 Project Budget - Planned vs Actual - Weekly and Monthly.xlsx`
+
+#### Detailed Procedure
+
+1. Translate WBS work packages into activities and identify mandatory and discretionary dependencies.
+2. Add finish-to-start, start-to-start, leads and lags only where the logic is defensible.
+3. Estimate durations using analogous, parametric, bottom-up or three-point methods and record the basis.
+4. Perform forward and backward passes; calculate total float and identify the current critical path.
+5. Build the Gantt with decision milestones, resource calendars and acceptance gates.
+6. Estimate cost bottom-up and cross-check with an analogous or parametric estimate.
+7. Time-phase labour, vendor, equipment, training and contingency; keep management reserve separate.
+8. Reconcile every scheduled work package to the budget and every milestone to acceptance evidence.
+
+#### Acceptance Criteria
+
+> The dependency network calculates correctly, the plan fits the five-month limit, all authorised work is time-phased and funded, and baseline plus contingency stays within S$180,000.
+
+#### Debrief
+
+- A Gantt is the presentation of schedule logic, not the logic itself.
+- The critical path can change after every update or approved change.
+- Baseline and forecast must remain separate so variance can be explained.
 
 ---
 
@@ -237,54 +596,210 @@ Corrective action addresses an observed variance or non-conformity. Preventive a
 
 Visual work management should expose blocked work, WIP, ageing and ownership—not become a colourful task list with no decision rules.
 
+### Reference-Sourced Deep Dives
+
+#### Method versus Tool
+
+| Element | Purpose | Example |
+|---|---|---|
+| Method | Defines how work is managed | Predictive, Scrum, Kanban, PDCA |
+| Tool | Makes evidence visible | WBS, board, chart, log |
+| Policy | Defines operating rule | WIP limit, acceptance rule |
+| Cadence | Defines review rhythm | Daily review, weekly status |
+
+**Decision insight:** A familiar tool used without a decision rule becomes decoration.
+
+#### Predictive, Adaptive and Hybrid
+
+| Signal | Predictive | Adaptive / hybrid |
+|---|---|---|
+| Requirements | Stable and knowable | Evolving or discovery-heavy |
+| Delivery | Larger gated releases | Short usable increments |
+| Change | Controlled against baseline | Expected inside prioritised backlog |
+| Best fit | Low uncertainty, costly rework | Fast feedback, reversible choices |
+
+**Decision insight:** Tailor by deliverable when different parts of one small project carry different uncertainty.
+
+#### Direct and Manage Project Work
+
+1. **Authorise** — approved plan and work package
+2. **Coordinate** — people, suppliers and interfaces
+3. **Produce** — deliverables and work data
+4. **Learn** — issues, knowledge and requests
+5. **Update** — documents and forecasts
+
+**Decision insight:** Execution produces both deliverables and information needed for control.
+
+#### A Lean PMIS for a Small Project
+
+- **Source of truth** — Named location and owner.
+- **Version control** — Number, date, author and status.
+- **Decision log** — What, who, when and rationale.
+- **Access** — Right people, current artefact.
+- **Archive** — Superseded records remain traceable.
+- **Security** — Sensitive content has proportionate access.
+
+#### Quality Planning, Assurance and Control
+
+| Discipline | Question | Evidence |
+|---|---|---|
+| Planning | What quality is required? | Metrics, methods and acceptance |
+| Assurance | Will the process achieve it? | Review, audit, coaching |
+| Control | Does the result conform? | Inspection, tests and charts |
+| Improvement | How will the system change? | Experiment and verification |
+
+**Decision insight:** Inspection finds defects; assurance and improvement reduce the chance of creating them.
+
+#### HarbourHub Quality-Cost Decision
+
+| Option | Near-term effect | Decision signal |
+|---|---|---|
+| Add catalogue-data validation | S$4,000 prevention spend | Reduces rejection and re-pick risk |
+| Test only at pilot launch | Lower spend now | Defects discovered with customers waiting |
+| Accept manual correction | No tooling change | Recurring labour and queue growth |
+| Decision | Fund validation before rollout | Cheaper than repeated external failure |
+
+**Decision insight:** The team chooses prevention because one avoided launch-week failure can repay the control.
+
+#### Quality Tool Sequence
+
+1. **Check sheet** — capture facts
+2. **Fishbone** — broaden possible causes
+3. **Five Whys** — test one chain
+4. **Pareto** — focus the vital few
+5. **Control chart** — understand behaviour
+6. **Experiment** — verify improvement
+
+**Decision insight:** Do not jump from anecdote directly to solution.
+
+#### Common Cause versus Special Cause
+
+| Signal | Meaning | Response |
+|---|---|---|
+| Stable random variation | System behaviour | Improve the process |
+| Point beyond limits | Potential special cause | Investigate event |
+| Run or trend | Non-random pattern | Test changed condition |
+| Within limits but off specification | Stable but incapable | Redesign process |
+
+**Decision insight:** Control limits come from process data; specification limits come from requirements.
+
+#### Kanban Operating Policies
+
+- **Visualise** — Show status, owner and blockers.
+- **Limit WIP** — Stop starting; start finishing.
+- **Manage flow** — Watch ageing and bottlenecks.
+- **Make policies explicit** — Entry, exit and priority rules.
+- **Feedback** — Review at a useful cadence.
+- **Improve** — Run small measurable experiments.
+
+#### PDCA Improvement Loop
+
+1. **Plan** — problem, cause, hypothesis and measure
+2. **Do** — small controlled change
+3. **Check** — compare evidence with prediction
+4. **Act** — standardise, adapt or stop
+
+**Decision insight:** Improvement is complete only when the new practice is verified and sustained.
+
+#### Manage Project Knowledge
+
+- **Explicit** — Documents, data and procedures.
+- **Tacit** — Experience and judgement shared through work.
+- **Create** — Reviews, experiments and problem solving.
+- **Use** — Decision support during delivery.
+- **Transfer** — Handover and lessons for future teams.
+
 ### Decision Check
 
-Before moving on, confirm that your team can explain how a reconciled check sheet, fishbone diagram, five-level causal chain, pareto chart, control-chart interpretation and a smart corrective experiment with owner and review date. supports use appropriate methods and tools to drive progress and improve quality (a3, k3).
+Before moving on, confirm that your team can explain the method, evidence, trade-off and next decision represented by the topic activities.
 
-### Activity 3 — Diagnose and Prioritise the Pilot's Quality Failure
+### Activity 6 — Tailor the Delivery Method and Quality Plan
 
-**Duration:** 75 minutes  
-**Objective:** Use appropriate methods and tools to drive progress and improve quality (A3, K3).  
-**Tools:** Fishbone, Check Sheet, 5 Whys, Pareto and Control Chart  
+**Phase:** Execution  
+**Duration:** 35 minutes  
+**Objective:** Choose proportionate methods and tools to drive flow and prevent defects (A3, K3).  
+**Tools:** Delivery Approach Canvas, Quality Plan and Kanban Board  
 
 #### Situation
 
-During outlet testing, only 82% of orders are ready at the promised collection time and pick accuracy has fallen to 94%. The software vendor blames store staff; store staff blame late inventory updates. The sponsor wants action before the team has separated symptoms, causes and normal variation.
+The catalogue and POS interface need predictable milestone control, while the outlet workflow needs rapid testing and feedback. The team must choose a hybrid delivery rhythm and define quality before build begins.
 
 #### Output
 
-A reconciled check sheet, fishbone diagram, five-level causal chain, Pareto chart, control-chart interpretation and a SMART corrective experiment with owner and review date.
+A documented hybrid approach, phase and iteration rhythm, quality management plan, Definition of Done, Kanban policy and measurement plan.
 
 #### Tool Files
 
-- `activities/activity-03-diagnose-and-prioritise-the-pilot-s-quality-failure/tools/35 Check Sheets.xlsx`
-- `activities/activity-03-diagnose-and-prioritise-the-pilot-s-quality-failure/tools/37 Ishikawa Diagram.xlsx`
-- `activities/activity-03-diagnose-and-prioritise-the-pilot-s-quality-failure/tools/38 Five Whys.xlsx`
-- `activities/activity-03-diagnose-and-prioritise-the-pilot-s-quality-failure/tools/36 Pareto Principle Template.xlsx`
-- `activities/activity-03-diagnose-and-prioritise-the-pilot-s-quality-failure/tools/34 Control Chart.xlsx`
+- `activities/activity-06-tailor-the-delivery-method-and-quality-plan/tools/30 Kanban Board.xlsx`
+- `activities/activity-06-tailor-the-delivery-method-and-quality-plan/tools/35 Check Sheets.xlsx`
+- `activities/activity-06-tailor-the-delivery-method-and-quality-plan/tools/34 Control Chart.xlsx`
+- `activities/activity-06-tailor-the-delivery-method-and-quality-plan/tools/06 Delivery Approach and Quality Plan.xlsx`
 
 #### Detailed Procedure
 
-1. Open 35 Check Sheets.xlsx and enter the supplied 60-order test dataset by defect type, outlet, shift and date.
-2. Reconcile the total. Separate late-ready orders from wrong-item, stock-out, notification and payment defects.
-3. Open the Fishbone browser tool or 37 Ishikawa Diagram.xlsx. Set the effect to 'Orders not ready accurately at the promised time'.
-4. Generate causes across People, Process, Technology, Data, Measurement and Environment. Mark facts with F and hypotheses with H.
-5. Select the highest-frequency cause family and complete 38 Five Whys.xlsx until the root is a process or system cause the team can influence.
-6. Read the chain backwards with 'because'. Repair any causal jump or circular statement.
-7. Open 36 Pareto Principle Template.xlsx and rank the defect categories. Add the cumulative percentage and identify the crossing of 80%.
-8. Use 34 Control Chart.xlsx to plot daily ready-on-time percentage. Decide whether the signal suggests a stable process or special-cause behaviour.
-9. Propose one SMART improvement experiment with an owner, target, completion date and measure. Allocate it on the project Kanban board.
-10. Explain to the sponsor why fixing every listed cause at once would be slower and less controlled than testing the vital few.
+1. Rate requirement uncertainty, technical uncertainty, feedback speed, compliance and cost of change.
+2. Choose predictive, adaptive or hybrid treatment for each major deliverable and justify the boundary.
+3. Define milestone gates and short test-feedback cycles inside the execution phase.
+4. Write a Definition of Done that includes acceptance, evidence, documentation and handoff conditions.
+5. Set quality metrics for ready-on-time, pick accuracy, defect escape and rework.
+6. Design the check-sheet sampling plan and the future control-chart review rule.
+7. Configure the Kanban board, entry/exit policies, WIP limits and blocker escalation threshold.
+8. Confirm which artefact is the source of truth and how versions will be controlled.
 
 #### Acceptance Criteria
 
-> The data total reconciles; Pareto reaches 100%; the five-whys chain ends at an actionable cause; the control chart interpretation matches the pattern; and the corrective experiment has an owner, measure and review date.
+> The approach matches uncertainty, quality is measurable before work begins, WIP and evidence rules are explicit, and predictive/adaptive controls do not contradict one another.
 
 #### Debrief
 
-- Fishbone broadens the search, 5 Whys deepens one chain, and Pareto tells you which chain is worth funding first.
-- A control limit describes process behaviour; it is not the same as a customer specification limit.
-- Improvement becomes project work only when it has capacity, ownership and a verification date.
+- Hybrid is intentional tailoring, not running two incompatible systems in parallel.
+- Quality must be designed into the workflow before it is inspected at the end.
+- A tool earns its place only when it changes a decision or behaviour.
+
+---
+
+### Activity 10 — Diagnose the Pilot Quality Failure
+
+**Phase:** Monitoring and Controlling  
+**Duration:** 40 minutes  
+**Objective:** Use evidence and root-cause tools to select a controlled corrective experiment (A3, K3).  
+**Tools:** Check Sheet, Fishbone, Five Whys, Pareto and Control Chart  
+
+#### Situation
+
+During testing, only 82% of orders are ready on time and pick accuracy is 94%. The vendor blames store staff; store staff blame inventory updates. The sponsor wants action before facts and hypotheses are separated.
+
+#### Output
+
+A check sheet, fishbone, five-whys chain, Pareto chart, control-chart interpretation and SMART corrective experiment.
+
+#### Tool Files
+
+- `activities/activity-10-diagnose-the-pilot-quality-failure/tools/35 Check Sheets.xlsx`
+- `activities/activity-10-diagnose-the-pilot-quality-failure/tools/37 Ishikawa Diagram.xlsx`
+- `activities/activity-10-diagnose-the-pilot-quality-failure/tools/38 Five Whys.xlsx`
+- `activities/activity-10-diagnose-the-pilot-quality-failure/tools/36 Pareto Principle Template.xlsx`
+- `activities/activity-10-diagnose-the-pilot-quality-failure/tools/34 Control Chart.xlsx`
+
+#### Detailed Procedure
+
+1. Enter and reconcile the supplied defect data by type, outlet, shift and date.
+2. Build a fishbone across People, Process, Technology, Data, Measurement and Environment; label facts and hypotheses.
+3. Select a high-frequency cause family and complete the five-whys chain to an influenceable system cause.
+4. Read the chain backwards with because and repair causal jumps.
+5. Rank defects in the Pareto template, calculate cumulative percentage and identify the vital few.
+6. Plot daily performance and distinguish control behaviour from the customer specification.
+7. Create one SMART corrective experiment with owner, measure, due date and review rule.
+
+#### Acceptance Criteria
+
+> Data totals reconcile, Pareto reaches 100%, the causal chain is actionable, the control interpretation matches the signal and the experiment has an owner and verification date.
+
+#### Debrief
+
+- Fishbone broadens, Five Whys deepens and Pareto prioritises.
+- Control limits describe process behaviour; specifications describe customer need.
+- Improvement is project work only when funded, owned and verified.
 
 ---
 
@@ -318,53 +833,158 @@ Expected monetary value helps compare repeated or material choices. It can still
 
 Residual risk remains after the response; secondary risk is introduced by the response. Both return to the register with owners.
 
+### Reference-Sourced Deep Dives
+
+#### Risk, Issue and Assumption
+
+| Item | Time orientation | Management action |
+|---|---|---|
+| Risk | May happen | Owner, trigger and response |
+| Issue | Has happened | Contain, resolve and escalate |
+| Assumption | Believed true | Validate by a date |
+| Constraint | Known limit | Plan within or change formally |
+
+**Decision insight:** A triggered risk becomes an issue; its response owner moves from readiness to action.
+
+#### The Risk Management Cycle
+
+1. **Plan** — scales, thresholds and roles
+2. **Identify** — threats and opportunities
+3. **Analyse** — priority and decision value
+4. **Respond** — action, owner, trigger and reserve
+5. **Monitor** — residual, secondary and emerging risk
+
+**Decision insight:** Risk management repeats whenever scope, schedule, suppliers or the environment change.
+
+#### Risk Breakdown Structure
+
+- **Technical** — Design, interface, data and quality.
+- **External** — Regulation, market, weather and supplier.
+- **Organisational** — Priority, funding, skills and governance.
+- **Project management** — Estimate, dependency, communication and scope.
+- **Opportunity** — Faster adoption, reuse, cost saving and capability.
+
+#### Writing an Actionable Risk
+
+1. **Cause** — because inventory data refresh is delayed
+2. **Event** — stock availability may be wrong
+3. **Impact** — orders may be rejected or re-picked
+4. **Response** — reduce cause or impact
+5. **Trigger** — refresh latency exceeds threshold
+
+**Decision insight:** Cause-event-impact wording prevents vague risks such as 'vendor risk'.
+
+#### Qualitative Risk Factors
+
+| Factor | Question | Use |
+|---|---|---|
+| Probability | How likely? | Exposure priority |
+| Impact | How severe? | Tolerance and reserve |
+| Urgency | How soon must we act? | Response timing |
+| Proximity | How soon may it occur? | Monitoring cadence |
+| Dormancy | How long before impact appears? | Early detection |
+
+**Decision insight:** Two risks with the same score may require different action timing.
+
+#### HarbourHub Threat-Response Workshop
+
+| Named threat | Chosen response | Owned action and trigger |
+|---|---|---|
+| Inventory feed is late | Mitigate | IT lead adds latency alert; trigger >15 minutes |
+| Vendor misses integration date | Transfer + mitigate | Milestone clause plus weekly interface test |
+| Outlet rejects new process | Mitigate | Ops lead pilots job aid and observes first 20 orders |
+| Cyber approval exceeds tolerance | Escalate | Sponsor decides scope trade by gate date |
+| Residual launch disruption | Accept actively | Fund two-day floor support contingency |
+
+**Decision insight:** Each response is specific enough to schedule, fund, monitor and verify.
+
+#### Opportunity Response Strategies
+
+| Strategy | Intent | Example |
+|---|---|---|
+| Exploit | Ensure opportunity occurs | Assign best resources |
+| Enhance | Increase probability or benefit | Accelerate pilot learning |
+| Share | Partner for capability | Revenue-sharing supplier |
+| Accept | Take benefit if it occurs | No proactive spend |
+| Escalate | Move to programme or strategy | Enterprise reuse |
+
+**Decision insight:** Positive uncertainty deserves ownership and deliberate action too.
+
+#### Response Architecture
+
+1. **Preventive** — act before trigger
+2. **Trigger** — observable threshold
+3. **Contingency** — act when triggered
+4. **Fallback** — act if contingency fails
+5. **Residual** — remaining exposure
+6. **Secondary** — new risk from response
+
+**Decision insight:** A response is not operational until timing, ownership and funding are explicit.
+
+#### Decision Tree and Sensitivity
+
+| Tool | Question answered | Caution |
+|---|---|---|
+| Decision tree | Which option has better expected value? | Average value can hide tail consequences |
+| Tornado chart | Which assumption drives outcome most? | Range quality determines insight |
+| Probability-impact matrix | What needs attention first? | Ordinal scores are not precise money |
+
+**Decision insight:** Use more analysis only when the decision value exceeds the analysis effort.
+
+#### Risk Review Agenda
+
+- **Triggered** — Promote to issue and execute response.
+- **Changed** — Re-score probability, impact and timing.
+- **New** — Add emerging and secondary risk.
+- **Obsolete** — Close with rationale.
+- **Reserve** — Reconcile use and remaining exposure.
+- **Escalation** — Decide beyond tolerance.
+
 ### Decision Check
 
-Before moving on, confirm that your team can explain how a prioritised risk register with owners, triggers, responses, contingency and residual exposure; one decision-tree recommendation; one tornado sensitivity reading; and a reconciled s$18,000 reserve plan. supports identify risks to project success and take proportionate action (a4, k4).
+Before moving on, confirm that your team can explain the method, evidence, trade-off and next decision represented by the topic activities.
 
-### Activity 4 — Build the Risk Register and Fund the Right Responses
+### Activity 7 — Build the Risk Register and Fund Responses
 
-**Duration:** 75 minutes  
-**Objective:** Identify risks to project success and take proportionate action (A4, K4).  
-**Tools:** Risk Matrix, Decision Tree and Tornado templates  
+**Phase:** Planning and Execution  
+**Duration:** 45 minutes  
+**Objective:** Identify, analyse and manage uncertainty with proportionate, funded action (A4, K4).  
+**Tools:** Risk Matrix, Decision Tree and Tornado Analysis  
 
 #### Situation
 
-The pilot has entered build. The POS interface may be delivered late, refrigerated stock counts are unreliable at one outlet, a key trainer is available for only two weeks, and a faster payment option could improve adoption but costs more. The remaining contingency reserve is S$18,000.
+The POS interface may be late, refrigerated stock counts are unreliable, a key trainer has a short availability window and a faster payment option could improve adoption. Contingency reserve is S$18,000.
 
 #### Output
 
-A prioritised risk register with owners, triggers, responses, contingency and residual exposure; one decision-tree recommendation; one tornado sensitivity reading; and a reconciled S$18,000 reserve plan.
+A prioritised risk register, response and trigger plan, EMV recommendation, tornado sensitivity reading and reconciled S$18,000 contingency allocation.
 
 #### Tool Files
 
-- `activities/activity-04-build-the-risk-register-and-fund-the-right-responses/tools/48 Risk Assessment Matrix Two pages.xlsx`
-- `activities/activity-04-build-the-risk-register-and-fund-the-right-responses/tools/45 Decision Tree Analysis TDIDT.xlsx`
-- `activities/activity-04-build-the-risk-register-and-fund-the-right-responses/tools/49 Tornado Chart - Sensitivity Analysis.xlsx`
+- `activities/activity-07-build-the-risk-register-and-fund-responses/tools/48 Risk Assessment Matrix Two pages.xlsx`
+- `activities/activity-07-build-the-risk-register-and-fund-responses/tools/45 Decision Tree Analysis TDIDT.xlsx`
+- `activities/activity-07-build-the-risk-register-and-fund-responses/tools/49 Tornado Chart - Sensitivity Analysis.xlsx`
 
 #### Detailed Procedure
 
-1. Open the risk matrix template and enter at least eight risks using the form: because of cause, event may occur, leading to impact.
-2. Separate risks from current issues. Move anything already occurring into the issue log and give it an action owner.
-3. Score probability and impact using the template scale. Calculate exposure and justify the top three priorities.
-4. Assign one risk owner and one response owner. Define an observable trigger for each top risk.
-5. Choose avoid, mitigate, transfer, accept or escalate for threats; use exploit, enhance, share, accept or escalate for opportunities.
-6. Specify preventive action, contingency action and fallback for the POS-interface risk. State when each activates.
-7. Open the decision-tree template. Compare the standard payment option with the faster premium option using the supplied probabilities, costs and benefits.
-8. Calculate expected monetary value and recommend an option. Then state one qualitative factor EMV does not capture.
-9. Open the tornado template and vary adoption, order volume, vendor delay and training productivity. Identify the two most sensitive assumptions.
-10. Allocate the S$18,000 contingency reserve to named risks. Do not consume management reserve or hide general padding inside activities.
-11. Conduct a risk review: close obsolete risks, update exposure, promote triggered risks to issues and record new secondary risks created by responses.
+1. Separate uncertain risks from current issues and assumptions requiring validation.
+2. Write at least eight risks as cause-event-impact statements and classify them in a risk breakdown structure.
+3. Score probability, impact, urgency and proximity; justify the priority threshold.
+4. Assign risk owners, response owners and observable triggers.
+5. Choose threat and opportunity responses; define preventive, contingency and fallback actions.
+6. Use the decision tree to compare payment options and state a non-financial factor outside EMV.
+7. Use the tornado chart to identify the two assumptions driving the largest outcome variation.
+8. Allocate no more than S$18,000 to named risks and record residual and secondary risk.
 
 #### Acceptance Criteria
 
-> Every priority risk has cause-event-impact wording, an owner, trigger, funded response and residual score; the decision-tree arithmetic reconciles; and the named contingency allocations total no more than S$18,000.
+> Priority risks have owners, triggers and funded responses; the EMV and sensitivity logic reconcile; contingency is allocated to named uncertainty and residual risk remains visible.
 
 #### Debrief
 
-- An owner does not prevent a risk; they watch the trigger and ensure the agreed response is ready.
-- Contingency is not generic padding—it is a funded response to identified uncertainty.
-- Quantitative tools sharpen a decision but do not replace judgement about reputation, safety or compliance.
+- Risk management creates options before triggers become expensive issues.
+- Quantitative analysis sharpens material decisions but does not replace judgement.
+- Acceptance means informed monitoring and contingency, not forgetting the risk.
 
 ---
 
@@ -398,53 +1018,161 @@ A RACI matrix is a diagnostic for decision rights. One Accountable owner is the 
 
 A communication plan specifies message, audience, channel, frequency and owner. An engagement plan adds the feedback route and decision the stakeholder can shape.
 
+### Reference-Sourced Deep Dives
+
+#### The Stakeholder Engagement Cycle
+
+1. **Identify** — who affects or is affected
+2. **Analyse** — interest, influence, impact and expectations
+3. **Plan** — desired state and decision participation
+4. **Engage** — communicate, listen and negotiate
+5. **Monitor** — feedback, sentiment and changed influence
+
+**Decision insight:** Stakeholder identification is continuous because project decisions change who is affected.
+
+#### Stakeholder Register Fields
+
+- **Identity** — Role, organisation and relationship.
+- **Interest** — What outcome matters.
+- **Influence** — Formal and informal ability to affect work.
+- **Impact** — How the project changes their work.
+- **Expectations** — Definition of success and concern.
+- **Strategy** — Engagement action and owner.
+
+#### Stakeholder Mapping Lenses
+
+| Lens | Dimensions | Best use |
+|---|---|---|
+| Power-interest | Authority and attention | Management strategy |
+| Impact-influence | Effect and ability to act | Change and adoption |
+| Power-influence | Authority and active influence | Governance |
+| Stakeholder cube | Three dimensions | Complex populations |
+| Salience | Power, legitimacy, urgency | Competing claims |
+
+**Decision insight:** A map is a hypothesis to guide action, not a permanent label.
+
+#### Seven Salience Classes
+
+- **Dormant** — Power only.
+- **Discretionary** — Legitimacy only.
+- **Demanding** — Urgency only.
+- **Dominant** — Power and legitimacy.
+- **Dangerous** — Power and urgency.
+- **Dependent** — Legitimacy and urgency.
+- **Definitive** — Power, legitimacy and urgency.
+
+#### Directions of Influence
+
+| Direction | Typical stakeholders | Leadership move |
+|---|---|---|
+| Upward | Sponsor and executives | Decision brief and escalation |
+| Downward | Team and specialists | Clarity, coaching and feedback |
+| Sideward | Peers and functional managers | Negotiation and coordination |
+| Outward | Customers, vendors, regulators | Expectation and interface management |
+
+**Decision insight:** Influence without authority depends on evidence, trust and a clear decision request.
+
+#### Communication Model
+
+1. **Encode** — sender frames meaning
+2. **Transmit** — channel carries message
+3. **Decode** — receiver interprets
+4. **Feedback** — understanding is tested
+5. **Noise** — language, culture, timing and medium interfere
+
+**Decision insight:** Delivery is not communication success; shared understanding is.
+
+#### Communication Methods
+
+| Method | Best use | Risk |
+|---|---|---|
+| Interactive | Decision and ambiguity | Time and facilitation |
+| Push | Targeted distribution | Receipt is not understanding |
+| Pull | Large reference set | Stakeholder may not retrieve it |
+| Visual radiator | Shared current state | Stale information destroys trust |
+
+**Decision insight:** Choose channel based on urgency, complexity, sensitivity and need for feedback.
+
+#### Stakeholder Engagement Levels
+
+| Level | Signal | Management aim |
+|---|---|---|
+| Unaware | Does not know project | Build awareness |
+| Resistant | Opposes change | Understand concern and involve |
+| Neutral | Neither resists nor supports | Connect to relevant value |
+| Supportive | Helps when asked | Sustain participation |
+| Leading | Actively champions | Enable influence |
+
+**Decision insight:** The gap between current and desired state must become an owned action.
+
+#### HarbourHub RACI Failure Test
+
+| Observed row | Failure signal | Repair |
+|---|---|---|
+| Pilot go-live | Sponsor and PM both marked A | Sponsor is sole A; PM remains R |
+| Inventory mapping | Vendor named R with no internal owner | IT lead becomes A; vendor remains R |
+| Outlet job aid | No R assigned | Operations lead owns production |
+| Customer message | Six people marked C | Consult legal and operations only |
+| Benefits review | Everyone marked I | Name finance owner and decision audience |
+
+**Decision insight:** The repaired matrix makes every critical deliverable and decision executable.
+
+#### Evidence-Based Escalation
+
+1. **Decision** — what is needed
+2. **Options** — feasible choices
+3. **Impact** — consequence of delay
+4. **Recommendation** — preferred option and why
+5. **Deadline** — latest useful decision time
+
+**Decision insight:** Escalation transfers a decision, not a problem without analysis.
+
 ### Decision Check
 
-Before moving on, confirm that your team can explain how a stakeholder register and power-interest map, salience reading, validated raci matrix, current-to-desired engagement assessment, communication plan and one evidence-based escalation brief. supports collaborate with internal and external stakeholders directly impacting the project (a5, k5).
+Before moving on, confirm that your team can explain the method, evidence, trade-off and next decision represented by the topic activities.
 
-### Activity 5 — Align Stakeholders with a Map, RACI and Engagement Plan
+### Activity 8 — Align Stakeholders, Accountability and Communications
 
-**Duration:** 75 minutes  
-**Objective:** Collaborate with internal and external stakeholders directly impacting the project (A5, K5).  
-**Tools:** Stakeholder Map, Salience, RACI and Engagement Assessment  
+**Phase:** Execution  
+**Duration:** 40 minutes  
+**Objective:** Collaborate with stakeholders and clarify decision rights for execution (A5, K5).  
+**Tools:** Stakeholder Map, Salience Model, RACI and Engagement Assessment  
 
 #### Situation
 
-Two weeks before outlet testing, the POS vendor and operations manager each believe the other owns interface acceptance. Store managers receive conflicting instructions, Finance has not approved the payment milestone, and a high-influence outlet supervisor is quietly resisting the pilot.
+The POS vendor and Operations each believe the other owns interface acceptance. Finance has not approved a payment milestone, store managers receive conflicting instructions and one influential supervisor resists the pilot.
 
 #### Output
 
-A stakeholder register and power-interest map, salience reading, validated RACI matrix, current-to-desired engagement assessment, communication plan and one evidence-based escalation brief.
+A stakeholder map, salience reading, validated RACI, engagement assessment, communication actions and one-minute escalation recommendation.
 
 #### Tool Files
 
-- `activities/activity-05-align-stakeholders-with-a-map-raci-and-engagement-plan/tools/42 Stakeholder Impact Over Influence Matrix.xlsx`
-- `activities/activity-05-align-stakeholders-with-a-map-raci-and-engagement-plan/tools/43 Salience Chart.pptx`
-- `activities/activity-05-align-stakeholders-with-a-map-raci-and-engagement-plan/tools/39 RACI Template.xlsx`
-- `activities/activity-05-align-stakeholders-with-a-map-raci-and-engagement-plan/tools/41 Stakeholder Engagement Assessment Matrix.xlsx`
+- `activities/activity-08-align-stakeholders-accountability-and-communications/tools/42 Stakeholder Impact Over Influence Matrix.xlsx`
+- `activities/activity-08-align-stakeholders-accountability-and-communications/tools/43 Salience Chart.pptx`
+- `activities/activity-08-align-stakeholders-accountability-and-communications/tools/39 RACI Template.xlsx`
+- `activities/activity-08-align-stakeholders-accountability-and-communications/tools/41 Stakeholder Engagement Assessment Matrix.xlsx`
 
 #### Detailed Procedure
 
-1. List at least 12 internal and external stakeholders: sponsor, PM, store managers, outlet staff, customers, Finance, IT, POS vendor, payment vendor, trainer and support team.
-2. Open the impact-over-influence template and position every stakeholder. Write the evidence for each high-influence rating.
-3. Use the salience template to test power, legitimacy and urgency. Compare the result with the power-interest map and explain one difference.
-4. Open the RACI browser tool or 39 RACI Template.xlsx. Use rows for deliverables and decisions, not job titles or vague activities.
-5. Assign R, A, C and I. Enforce one accountable owner per row; flag rows with no R, no A, too many Cs or duplicated As.
-6. Resolve interface acceptance, payment release, training sign-off, launch approval and change control. Record why each A sits where it does.
-7. Open the engagement assessment matrix and rate current versus desired engagement for the top eight stakeholders.
-8. For each material gap, define message, channel, frequency, owner, feedback mechanism and the next decision the engagement supports.
-9. Draft a one-minute escalation brief for the interface ownership conflict: decision required, options, impact of delay, recommendation and deadline.
-10. Role-play the meeting with another team acting as sponsor and vendor. Update the RACI and stakeholder plan from the feedback.
+1. Identify internal, external, upward, downward and sideward stakeholders.
+2. Position stakeholders on impact/influence and justify every high rating with evidence.
+3. Apply the salience lens of power, legitimacy and urgency; compare it with the two-dimensional map.
+4. Build RACI rows around deliverables and decisions; enforce one Accountable owner per critical row.
+5. Correct missing R/A, duplicated A and excessive consultation patterns.
+6. Rate current and desired engagement and define the decision each stakeholder must help shape.
+7. Set message, channel, frequency, owner and feedback route for each material gap.
+8. Deliver an escalation brief: decision, options, impact of delay, recommendation and deadline.
 
 #### Acceptance Criteria
 
-> All material stakeholders are analysed; every critical deliverable has exactly one Accountable owner and at least one Responsible party; engagement gaps have two-way actions; and the escalation asks for a clear decision.
+> Critical decisions have one Accountable owner, material engagement gaps have two-way actions and the escalation asks the authorised person for a clear, time-bound decision.
 
 #### Debrief
 
-- Most collaboration failures are decision-right failures before they become communication failures.
-- RACI clarifies accountability; it does not replace the conversation needed to gain commitment.
-- Stakeholder attention should follow evidence of influence, impact and urgency—not organisational seniority alone.
+- Many communication failures begin as unclear decision rights.
+- Engagement is participation and feedback, not message broadcasting.
+- Attention follows influence, impact and urgency—not title alone.
 
 ---
 
@@ -478,54 +1206,174 @@ Crashing adds cost to critical-path work; fast tracking overlaps work that was s
 
 Conflict mode should match outcome importance and relationship importance. Collaboration is powerful but costly; not every low-stakes disagreement needs it.
 
+### Reference-Sourced Deep Dives
+
+#### Resource Management Plan
+
+- **Identify** — People, equipment, facilities and funding.
+- **Estimate** — Quantity, skill and timing.
+- **Acquire** — Internal assignment or procurement.
+- **Develop** — Capability, trust and working agreements.
+- **Manage** — Performance, conflict and feedback.
+- **Control** — Usage, availability and corrective action.
+
+#### Organisation Structure and PM Authority
+
+| Structure | PM authority | Resource pattern |
+|---|---|---|
+| Functional | Low | Functional manager controls |
+| Weak matrix | Limited | Coordinator role |
+| Balanced matrix | Shared | Negotiated authority |
+| Strong matrix | Moderate to high | Dedicated PM authority |
+| Project-oriented | High | Dedicated team |
+
+**Decision insight:** Even a small project needs explicit escalation when formal authority is limited.
+
+#### Role, Authority, Responsibility and Competence
+
+| Element | Question | Evidence |
+|---|---|---|
+| Role | What function is performed? | Role description |
+| Authority | What decisions may be made? | Charter and tolerance |
+| Responsibility | What outcome or work is owned? | RACI and work package |
+| Competence | Can the person perform it? | Skill and experience |
+
+**Decision insight:** Assigning work without authority or competence creates hidden dependency.
+
+#### Two-Week Capacity Worked Example
+
+| Skill | Demand | Usable capacity / decision |
+|---|---|---|
+| Integration developer | 96 hours | 64 hours — defer reporting interface |
+| Outlet trainer | 40 hours | 48 hours — retain buffer |
+| Data analyst | 52 hours | 32 hours — buy 20 specialist hours |
+| Test lead | 60 hours | 56 hours — smooth four hours into next week |
+
+**Decision insight:** The constraint is skill-specific usable time, not the team's nominal headcount.
+
+#### Acquire, Develop or Procure
+
+| Choice | Use when | Trade-off |
+|---|---|---|
+| Internal assignment | Capability exists | Priority conflict |
+| Develop skill | Need is recurring | Learning time |
+| Contract resource | Short-term specialist gap | Cost and knowledge transfer |
+| Outsource deliverable | Clear result and interface | Control and vendor dependency |
+
+**Decision insight:** Choose the smallest intervention that resolves the critical constraint.
+
+#### Make-or-Buy Decision
+
+| Criterion | Make | Buy |
+|---|---|---|
+| Capability | Builds internal skill | Accesses specialist skill |
+| Lead time | Depends on availability | Depends on procurement and onboarding |
+| Control | Direct management | Contract and interface control |
+| Cost | Fixed or opportunity cost | Price plus vendor management |
+| Knowledge | Retained internally | Requires transfer plan |
+
+**Decision insight:** Lowest price is not lowest total project cost when delay and interface risk are included.
+
+#### Contract Type and Risk
+
+| Type | Cost risk | Best fit |
+|---|---|---|
+| Firm fixed price | More seller risk | Stable, clear scope |
+| Cost reimbursable | More buyer risk | Uncertain scope with control |
+| Time and materials | Shared / capped | Short-term flexible effort |
+| Incentive arrangement | Shared performance target | Measurable outcome |
+
+**Decision insight:** The contract allocates financial risk; it does not eliminate delivery accountability.
+
+#### HarbourHub Team-Stage Diagnostic
+
+| Observed behaviour | Stage diagnosis | Next leadership move |
+|---|---|---|
+| Vendor and IT dispute interface ownership | Storming | Facilitate roles and decision rule |
+| Outlet champions share one job aid | Norming | Reinforce standard and peer coaching |
+| Test team resolves defects without escalation | Performing | Delegate within tolerance |
+| Pilot staff worry about release | Adjourning | Recognise contribution and confirm transition |
+
+**Decision insight:** Leadership changes with team evidence; it is not a fixed personal style.
+
+#### Conflict Approaches
+
+| Approach | When useful | Trade-off |
+|---|---|---|
+| Collaborate | Outcome and relationship both matter | Time and openness |
+| Compromise | Time-limited middle ground | Partial satisfaction |
+| Accommodate | Relationship or learning matters more | Your need deferred |
+| Direct / force | Emergency or authority decision | Commitment risk |
+| Avoid | Low value or cooling period | Issue may persist |
+
+**Decision insight:** Conflict is information; choose the response based on stakes and relationship.
+
+#### HarbourHub Bottleneck Options
+
+| Option tested | Schedule effect | Decision |
+|---|---|---|
+| Smooth outlet training | Uses two days of float | Accept — no milestone impact |
+| Level integration work | Moves launch by one week | Reject unless scope is traded |
+| Crash data validation | Recovers three days for S$3,600 | Approve inside reserve |
+| Fast-track testing | May recover four days | Reject — high rework and quality risk |
+
+**Decision insight:** The selected combination protects launch without hiding cost or quality trade-offs.
+
+#### Team Performance Signals
+
+- **Delivery** — Commitments met with acceptance evidence.
+- **Flow** — WIP, blockers and ageing visible.
+- **Quality** — Defects and rework trend.
+- **Collaboration** — Handoffs, feedback and conflict resolved.
+- **Learning** — Capability and knowledge transfer.
+- **Sustainability** — Workload remains safe and realistic.
+
 ### Decision Check
 
-Before moving on, confirm that your team can explain how a two-week capacity plan, organisation and escalation map, workload kanban, evaluated compression options, reconciled budget impact and a sponsor recommendation that removes the bottleneck. supports deploy manpower, budget and relevant resources for efficient completion (a6).
+Before moving on, confirm that your team can explain the method, evidence, trade-off and next decision represented by the topic activities.
 
-### Activity 6 — Deploy the Team and Resolve the Resource Bottleneck
+### Activity 9 — Deploy Resources and Resolve the Bottleneck
 
-**Duration:** 60 minutes  
-**Objective:** Deploy manpower, budget and relevant resources for efficient completion (A6).  
-**Tools:** Organisation Chart, Kanban Board and Project Budget templates  
+**Phase:** Execution  
+**Duration:** 45 minutes  
+**Objective:** Match skills, capacity, procurement and budget to critical work (A6).  
+**Tools:** Organisation Chart, Resource Capacity, Procurement Decision, Kanban and Budget  
 
 #### Situation
 
-The test plan needs 22 person-days in the next two weeks, but only 16 are available. The same business analyst is assigned to testing, training materials and vendor clarification. The sponsor refuses a launch delay unless the team proves no lower-cost option exists.
+Testing needs 22 person-days in two weeks, but only 16 are available. The business analyst is assigned to testing, training and vendor clarification. The sponsor wants evidence before accepting delay or extra cost.
 
 #### Output
 
-A two-week capacity plan, organisation and escalation map, workload Kanban, evaluated compression options, reconciled budget impact and a sponsor recommendation that removes the bottleneck.
+An organisation map, capacity heatmap, constraint-aware Kanban, procurement comparison, compression options, budget impact and sponsor recommendation.
 
 #### Tool Files
 
-- `activities/activity-06-deploy-the-team-and-resolve-the-resource-bottleneck/tools/40 Organisation Chart.pptx`
-- `activities/activity-06-deploy-the-team-and-resolve-the-resource-bottleneck/tools/30 Kanban Board.xlsx`
-- `activities/activity-06-deploy-the-team-and-resolve-the-resource-bottleneck/tools/32 Project Budget - Planned vs Actual - Weekly and Monthly.xlsx`
+- `activities/activity-09-deploy-resources-and-resolve-the-bottleneck/tools/40 Organisation Chart.pptx`
+- `activities/activity-09-deploy-resources-and-resolve-the-bottleneck/tools/30 Kanban Board.xlsx`
+- `activities/activity-09-deploy-resources-and-resolve-the-bottleneck/tools/32 Project Budget - Planned vs Actual - Weekly and Monthly.xlsx`
+- `activities/activity-09-deploy-resources-and-resolve-the-bottleneck/tools/09 Resource Capacity and Procurement Decision.xlsx`
 
 #### Detailed Procedure
 
-1. Open the organisation-chart template and map the sponsor, PM, functional managers, vendor leads and seven-person core team. Show escalation lines separately from work coordination.
-2. Create a two-week capacity table by person and skill. Use available person-days, not nominal headcount.
-3. Map every near-term work package to skill, effort, owner, earliest start, dependency and due date.
-4. Calculate demand minus capacity. Identify the business analyst as the constraint and quantify the six-person-day gap.
-5. Open the Kanban template or Scrum browser tool. Create To Do, Ready, In Progress, Review and Done columns and set WIP limits around the analyst's constraint.
-6. Test resource smoothing by using float on non-critical tasks. Recalculate the schedule and note whether the project finish changes.
-7. Test resource levelling by moving work until demand fits capacity. Record the new finish date and milestone impact.
-8. Test crashing by adding a contract analyst to critical-path work. Enter the incremental cost and check whether the saved time justifies it.
-9. Test fast tracking by overlapping training-material drafting with late testing. Record the rework and quality risk introduced.
-10. Update the project budget with the preferred option. Keep approved changes separate from contingency usage.
-11. Recommend one option to the sponsor using four fields: schedule effect, cost effect, risk effect and decision deadline.
-12. Define team-working rules for handoffs and conflict: who decides, how blockers are raised, and when the PM escalates.
+1. Map sponsor, project manager, functional managers, core team and vendor interfaces.
+2. Calculate usable capacity by person, skill and week after operations and other commitments.
+3. Match work-package demand to capacity and quantify the constraint and queue.
+4. Set WIP limits and pull rules around the constrained skill.
+5. Test smoothing within float and levelling beyond available float.
+6. Test crashing and fast tracking only on the current critical path; record cost and new risk.
+7. Compare make/buy options using cost, lead time, quality, interface and vendor capability.
+8. Update the budget and recommend an option with schedule, cost, quality and risk effects.
 
 #### Acceptance Criteria
 
-> The plan reconciles named work with actual capacity; the bottleneck is visible; each optimisation option has schedule, cost and risk consequences; and the chosen deployment fits the approved project constraints.
+> Capacity reconciles to named work and skills, the bottleneck is explicit, procurement/compression options show complete trade-offs and the chosen deployment remains within authorised constraints.
 
 #### Debrief
 
-- A name in a RACI matrix does not create capacity; capacity must be measured against concurrent demand.
-- Fast tracking buys time with risk, while crashing buys time with cost—neither is automatically a good decision.
-- Manage the constraint first. Adding capacity elsewhere can increase WIP without improving delivery.
+- A RACI assignment does not create capacity.
+- Manage the constraint before adding capacity elsewhere.
+- Crashing buys time with cost; fast tracking buys time with risk.
 
 ---
 
@@ -559,58 +1407,220 @@ Change control is not change prevention. It makes trade-offs explicit, records a
 
 Closure includes acceptance, transition, contracts, records, lessons and benefits ownership. The project may finish while benefits continue under operations.
 
+### Reference-Sourced Deep Dives
+
+#### The Monitoring and Control Cycle
+
+1. **Collect** — work performance data
+2. **Compare** — baseline, threshold and acceptance
+3. **Analyse** — cause and forecast
+4. **Decide** — action, change or escalation
+5. **Update** — owners, plans and records
+6. **Verify** — did action change outcome?
+
+**Decision insight:** Control is forward-looking: the purpose of variance is to improve the forecast and decision.
+
+#### Data, Information and Reports
+
+| Level | Example | Use |
+|---|---|---|
+| Data | 7 defects, S$105k actual cost | Raw observation |
+| Information | Defects above threshold, CPI 0.86 | Meaning through comparison |
+| Report | Forecast, cause, action and decision | Governance and coordination |
+
+**Decision insight:** A dashboard without interpretation is data display, not project control.
+
+#### A Decision-Ready Status Report
+
+- **Where** — Current milestone and acceptance state.
+- **Variance** — Scope, time, cost, quality and resource.
+- **Why** — Cause, not just symptom.
+- **Forecast** — Expected finish and cost.
+- **Action** — Owner, due date and verification.
+- **Decision** — Escalation with options and deadline.
+
+#### Validate Scope versus Control Scope
+
+| Process | Question | Evidence |
+|---|---|---|
+| Validate scope | Will the authorised stakeholder accept it? | Accepted deliverable |
+| Control scope | Has authorised scope changed? | Baseline, RTM and change log |
+| Control quality | Does the result conform? | Inspection and test record |
+
+**Decision insight:** Verified quality is not the same as formal customer acceptance.
+
+#### Earned Value Building Blocks
+
+- **PV** — Budgeted value of work planned by status date.
+- **EV** — Budgeted value of work actually completed.
+- **AC** — Actual cost of completed work.
+- **BAC** — Total authorised budget for measured scope.
+- **Status date** — The same cut-off for every measure.
+
+#### Variance and Performance Indices
+
+| Measure | Formula | Interpretation |
+|---|---|---|
+| SV | EV − PV | Negative means less value completed than planned |
+| CV | EV − AC | Negative means completed value cost more than budgeted |
+| SPI | EV ÷ PV | Below 1.00 means schedule inefficiency |
+| CPI | EV ÷ AC | Below 1.00 means cost inefficiency |
+
+**Decision insight:** Translate every index into operational consequence and required decision.
+
+#### Forecasting with EAC
+
+| Situation | Formula | Assumption |
+|---|---|---|
+| Current cost efficiency continues | EAC = BAC ÷ CPI | Past cost performance persists |
+| Remaining work re-estimated | EAC = AC + bottom-up ETC | New detailed forecast is credible |
+| Original variance is one-off | EAC = AC + (BAC − EV) | Future returns to plan |
+| Cost and schedule both constrain | EAC = AC + (BAC − EV)/(CPI × SPI) | Both inefficiencies persist |
+
+**Decision insight:** Forecast choice is a management assumption and must be stated.
+
+#### Issue Management
+
+1. **Log** — fact, impact and detection date
+2. **Contain** — protect customer or milestone
+3. **Own** — resolution and decision owner
+4. **Resolve** — root cause and action
+5. **Escalate** — outside authority or tolerance
+6. **Verify** — evidence and closure
+
+**Decision insight:** Do not keep an issue disguised as a risk after it has occurred.
+
+#### Loyalty-Points Change Worked Example
+
+| Analysis lens | Finding | Implication |
+|---|---|---|
+| Value | Could lift repeat purchase | Benefit is plausible but unvalidated |
+| Scope and schedule | Adds API and two test cycles | Launch slips nine working days |
+| Cost and resource | S$18,000 plus scarce developer | Exceeds PM tolerance |
+| Risk and quality | New data/privacy interface | Needs security and regression evidence |
+| Decision | Defer to post-pilot release | Protect baseline; retain request and rationale |
+
+**Decision insight:** Useful ideas are not automatically urgent: the sponsor protects the pilot while preserving the option.
+
+#### Three Types of Action
+
+| Action | Purpose | Example |
+|---|---|---|
+| Corrective | Bring future performance back to plan | Add test capacity to recover milestone |
+| Preventive | Reduce probability of future variance | Add interface review before integration |
+| Defect repair | Modify non-conforming deliverable | Correct catalogue mapping |
+
+**Decision insight:** Each action needs authority, ownership, due date and verification.
+
+#### Control Across Knowledge Areas
+
+- **Schedule** — Critical path, float and milestone forecast.
+- **Cost** — Actuals, earned value and forecast.
+- **Quality** — Conformance, variation and corrective action.
+- **Resources** — Utilisation, capacity and bottlenecks.
+- **Risk** — Triggers, exposure and reserve.
+- **Communication & procurement** — Effectiveness, obligations and disputes.
+
+#### Closure from Acceptance to Benefits
+
+1. **Accept** — criteria and authorised sign-off
+2. **Transition** — operations, support, data and training
+3. **Close contracts** — claims, invoices, warranties and records
+4. **Learn** — causes and reusable recommendations
+5. **Transfer benefits** — owner, baseline, target and review
+6. **Close** — archive and release resources
+
+**Decision insight:** The project can close only after unresolved work is completed or formally transferred.
+
 ### Decision Check
 
-Before moving on, confirm that your team can explain how a current kanban and burndown, earned-value analysis with forecasts, status report, change-control decision, corrective-action log, acceptance and handover checklist, lessons learned and closure recommendation. supports track deliverables, monitor cost, schedule and resources, and correct misalignment (a7).
+Before moving on, confirm that your team can explain the method, evidence, trade-off and next decision represented by the topic activities.
 
-### Activity 7 — Control the Pilot, Decide the Change and Close the Project
+### Activity 11 — Control Performance, Issues and Change
 
-**Duration:** 105 minutes  
-**Objective:** Track deliverables, monitor cost, schedule and resources, and correct misalignment (A7).  
-**Tools:** Kanban, Burndown, Budget, Control Chart and Retrospective templates  
+**Phase:** Monitoring and Controlling  
+**Duration:** 45 minutes  
+**Objective:** Track integrated performance and take authorised corrective action (A7).  
+**Tools:** Integrated Status, Change and Issue Log, Burndown, Budget and Control Chart  
 
 #### Situation
 
-At the end of week 12, the baseline planned value is S$108,000. Completed deliverables represent S$90,000 of budgeted value and actual cost is S$105,000. The sponsor also requests loyalty points, estimated at S$24,000 and three weeks. Launch evidence is incomplete and the vendor wants final payment.
+At week 12, PV is S$108,000, EV is S$90,000 and AC is S$105,000. The sponsor requests loyalty points for S$24,000 and three weeks while a vendor interface issue threatens acceptance.
 
 #### Output
 
-A current Kanban and burndown, earned-value analysis with forecasts, status report, change-control decision, corrective-action log, acceptance and handover checklist, lessons learned and closure recommendation.
+An integrated status report, EVM calculations and forecast, issue decision, change-impact analysis, decision log, corrective action and updated control records.
 
 #### Tool Files
 
-- `activities/activity-07-control-the-pilot-decide-the-change-and-close-the-project/tools/30 Kanban Board.xlsx`
-- `activities/activity-07-control-the-pilot-decide-the-change-and-close-the-project/tools/31 Burndown Chart.xlsx`
-- `activities/activity-07-control-the-pilot-decide-the-change-and-close-the-project/tools/32 Project Budget - Planned vs Actual - Weekly and Monthly.xlsx`
-- `activities/activity-07-control-the-pilot-decide-the-change-and-close-the-project/tools/34 Control Chart.xlsx`
-- `activities/activity-07-control-the-pilot-decide-the-change-and-close-the-project/tools/44 Agile Retrospective.xlsx`
+- `activities/activity-11-control-performance-issues-and-change/tools/31 Burndown Chart.xlsx`
+- `activities/activity-11-control-performance-issues-and-change/tools/32 Project Budget - Planned vs Actual - Weekly and Monthly.xlsx`
+- `activities/activity-11-control-performance-issues-and-change/tools/34 Control Chart.xlsx`
+- `activities/activity-11-control-performance-issues-and-change/tools/11 Integrated Status Change and Issue Log.xlsx`
 
 #### Detailed Procedure
 
-1. Update the Kanban board with each deliverable, owner, status, blocker, due date and acceptance evidence. Do not count work as Done without evidence.
-2. Open the burndown template and plot remaining work by week. Identify any flat period, late cliff or scope increase.
-3. Record PV = S$108,000, EV = S$90,000 and AC = S$105,000. Calculate SV, CV, SPI and CPI.
-4. Interpret each result in plain language. State separately whether the project is ahead/behind schedule and under/over cost for work performed.
-5. Using BAC = S$162,000, calculate EAC under current cost performance and ETC. Compare the forecast with the S$180,000 authorised ceiling.
-6. Prepare a one-page status: traffic light with threshold, variance cause, forecast, top risk/issue, corrective action, owner and decision needed.
-7. Document the loyalty-points request: reason, scope, schedule, cost, resource, quality and risk impact; options; recommendation; and decision deadline.
-8. Apply the change-control workflow. Decide reject, defer to a later phase, or approve with trade-off. Record the approver and rationale.
-9. If approved, update the RTM, WBS, schedule, cost baseline, risk register and stakeholder communications. If rejected or deferred, update the decision log and expectations.
-10. Select corrective action for current variance. Test schedule compression only on the current critical path and state the new risk introduced.
-11. Use the control-chart template to show whether pick accuracy has stabilised at or above the 98% success threshold. Distinguish control limits from specification.
-12. Complete acceptance evidence for the three outlets, training, support handover, data ownership, operational KPIs, unresolved items and final vendor payment.
-13. Open the retrospective template. Record what worked, what failed, the root cause, recommendation and named owner for organisational follow-up.
-14. Issue the closure recommendation only when acceptance, transition, contracts, records, lessons learned and benefits ownership are complete.
+1. Set one status date and reconcile deliverable, milestone, budget, quality, risk and resource evidence.
+2. Calculate SV, CV, SPI and CPI from PV, EV and AC; interpret each in plain language.
+3. Using BAC S$162,000, calculate EAC and ETC under current cost performance and compare with the ceiling.
+4. Triage the interface issue by severity, owner, containment, root cause and resolution date.
+5. Document the loyalty-points request and analyse scope, time, cost, quality, resource and risk impacts.
+6. Recommend approve, reject, defer or trade scope; record approver, rationale and deadline.
+7. Update affected baselines or the decision log and notify owners and stakeholders.
+8. Choose corrective or preventive action with owner, due date and verification measure.
 
 #### Acceptance Criteria
 
-> Earned-value calculations and forecast reconcile; the change decision states complete impacts; corrective action has an owner and due date; and closure is supported by acceptance, handover, contract and lessons evidence.
+> EVM and forecast reconcile, issue and change records are distinct, the decision is authorised, all affected records are updated and corrective action is measurable.
 
 #### Debrief
 
-- Status reporting is a decision system: variance without forecast and action is only history.
-- An approved change is not complete until every affected baseline and traceability record is updated.
-- Project closure transfers accountability for benefits and operations; it does not merely stop project work.
+- Status reporting is a decision system, not a colour-coded history lesson.
+- Change control enables deliberate trade-offs; it does not prevent change.
+- An approved change is incomplete until every affected baseline is updated.
+
+---
+
+### Activity 12 — Accept, Handover and Close the Project
+
+**Phase:** Closure  
+**Duration:** 35 minutes  
+**Objective:** Close only when deliverables, transition, contracts, records and benefits ownership are evidenced (A7).  
+**Tools:** Acceptance, Handover, Closure and Benefits Tracker plus Retrospective  
+
+#### Situation
+
+All three outlets are live, but final payment is requested before complete acceptance evidence, support ownership, training records and unresolved-item decisions are consolidated. Benefits will continue after project closure.
+
+#### Output
+
+Signed acceptance matrix, handover and training evidence, unresolved-item disposition, contract closeout, lessons register, benefits tracker and formal closure recommendation.
+
+#### Tool Files
+
+- `activities/activity-12-accept-handover-and-close-the-project/tools/44 Agile Retrospective.xlsx`
+- `activities/activity-12-accept-handover-and-close-the-project/tools/12 Acceptance Handover Closure and Benefits.xlsx`
+
+#### Detailed Procedure
+
+1. Trace each accepted deliverable to its requirement, criterion, evidence and authorised approver.
+2. List operational ownership, support levels, data ownership, monitoring and escalation after handover.
+3. Verify training completion, knowledge transfer and access to current operating documentation.
+4. Resolve or formally transfer every open issue, defect, risk, change and supplier obligation.
+5. Confirm final invoices, warranties, contract records and payment approval conditions.
+6. Run the retrospective and convert lessons into reusable recommendations with owners.
+7. Assign benefits owners, measures, baselines, targets and review dates after closure.
+8. Recommend close, close with transferred actions, or remain open; record sponsor approval.
+
+#### Acceptance Criteria
+
+> Acceptance is traceable, handover ownership is explicit, open items have formal disposition, contracts and records reconcile, and benefits continue under named operational owners.
+
+#### Debrief
+
+- Elapsed time does not close a project; complete evidence and transferred accountability do.
+- Lessons become assets only when future owners can find and use them.
+- Project work ends before benefits measurement ends.
 
 ---
 
