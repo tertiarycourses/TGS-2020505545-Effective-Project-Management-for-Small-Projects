@@ -6,7 +6,7 @@ WSQ courseware for leading a small project through its complete lifecycle: initi
 |---|---|
 | Course code | `TGS-2020505545` |
 | Programme | WSQ |
-| Duration | 2 days / 16 hours (plus 2 hours of assessment) |
+| Duration | 2 days / 16 hours, including 2 hours of assessment |
 | Skills Framework | Project Management — `ICT-PMT-3026-1.1` |
 | Registration | [View course details and register](https://www.tertiarycourses.com.sg/wsq-effective-project-management-for-small-projects.html) |
 | Funding | See the course page for current funding and eligibility. |
