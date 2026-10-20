@@ -32,3 +32,10 @@ courseware/SOURCE-COVERAGE-*.md
 .playwright-mcp/
 __pycache__/
 *.pyc
+
+# Facilitator Guide + Assessment Plan embed the answer keys and rubric:
+# trainer-only (Google Drive + TMS), never GitHub
+**/FG_*
+**/FG-*
+**/Assessment_Plan_*
+**/AP-*
